@@ -1,4 +1,4 @@
-\# 🛒 E-Commerce Website
+🛒 E-Commerce Website
 
 
 
@@ -6,11 +6,11 @@ A professional and responsive \*\*E-Commerce Web Application\*\* developed using
 
 
 
-\## 🚀 Features
+🚀 Features
 
 
 
-\- User-friendly product browsing
+- User-friendly product browsing
 
 \- Product listing and detailed product view
 
