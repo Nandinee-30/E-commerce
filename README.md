@@ -12,17 +12,17 @@ A professional and responsive \*\*E-Commerce Web Application\*\* developed using
 
 - User-friendly product browsing
 
-\- Product listing and detailed product view
+- Product listing and detailed product view
 
-\- Add to cart functionality
+- Add to cart functionality
 
-\- Cart management system
+- Cart management system
 
-\- Order placement and management
+- Order placement and management
 
-\- Django Admin Panel for managing products and orders
+- Django Admin Panel for managing products and orders
 
-\- Responsive and clean user interface
+- Responsive and clean user interface
 
 
 
