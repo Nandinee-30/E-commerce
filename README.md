@@ -22,17 +22,16 @@ A responsive E-Commerce Web Application built using Python, HTML, CSS, JavaScrip
 
 ---
 
-<<<<<<< HEAD
+
 🚀 Features
 =======
 # 📖 Overview
->>>>>>> 9360c83 (Updated professional ecommerce README)
 
 This **E-Commerce Website** is a full-stack web application developed using Python for backend functionality and modern frontend technologies like HTML, CSS, JavaScript, and Bootstrap.
 
 The project provides an online shopping platform where users can explore products, manage their cart, and interact with a user-friendly interface.
 
-<<<<<<< HEAD
+
 - User-friendly product browsing
 
 - Product listing and detailed product view
@@ -77,7 +76,7 @@ The project provides an online shopping platform where users can explore product
 | 📝 Version Control | Git & GitHub      |
 
 ---
->>>>>>> 9360c83 (Updated professional ecommerce README)
+
 
 # 📁 Project Structure
 
