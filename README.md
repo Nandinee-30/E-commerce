@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 🛒 E-Commerce Website
 =======
 # 🛒 E-Commerce Website
->>>>>>> 9360c83 (Updated professional ecommerce README)
+
 
 <p align="center">
 
@@ -45,7 +45,7 @@ The project provides an online shopping platform where users can explore product
 - Django Admin Panel for managing products and orders
 
 - Responsive and clean user interface
-=======
+
 ---
 
 # ✨ Features
